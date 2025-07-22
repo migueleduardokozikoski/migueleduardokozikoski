@@ -1,5 +1,7 @@
-### 👋 Olá, eu sou o Miguel Eduardo Kozikoski <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXlqN29lMGhlYjR0aGFoazJjcGZsdWFuaWw5eXVua2xuOGlmano5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VFZMf85AFClLPWvQne/giphy.gif" width="150">
-
+### 👋 Olá, eu sou o Miguel Eduardo Kozikoski,bem-vindo ao meu perfil
+<p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXMwYjExNDV2MG91NTh3NjV3bjZwdXNjZGI2N3R1eHY4OWpxNDZiaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/h2gSXlEKlEUqmCxoRR/giphy.gif" width="300" />
+</p>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
 [![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@migs_sk)
@@ -16,4 +18,5 @@
 -sou desenvolvedor júnior com grande força de vonatde de aprender e ajudar as pessoas no dia a dia 
 
 ![migueleduardokozikoski GitHub stats](https://github-readme-stats.vercel.app/api?username=migueleduardokozikoski&show_icons=true&theme=dracula)
+
 
