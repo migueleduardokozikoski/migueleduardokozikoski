@@ -15,7 +15,7 @@
    <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div><br/>
 
--sou desenvolvedor júnior com grande força de vonatde de aprender e ajudar as pessoas no dia a dia 
+-sou desenvolvedor júnior com grande força de vontade de aprender e ajudar as pessoas no dia a dia 
 
 ![migueleduardokozikoski GitHub stats](https://github-readme-stats.vercel.app/api?username=migueleduardokozikoski&show_icons=true&theme=dracula)
 
